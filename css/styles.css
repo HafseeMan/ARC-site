@@ -11625,7 +11625,15 @@ footer.footer .social-link:hover {
   }
 }
 .slider-bg-3{
-  background-image: url('../imgs/slider.png');
+  background-image: url('../imgs/image2.jpeg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+#mission h2{
+  color:#166077;
 }
 /* The Modal (background) */
 .modal {
